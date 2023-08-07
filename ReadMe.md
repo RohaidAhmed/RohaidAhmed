@@ -1,7 +1,6 @@
 # 💫 About Me:
-I am student of BS Computer Engineering.
-- 🔭 I'm currently working on my final year project, "Smartphone-Based Detection of Retinal Abnormalities.
-- I am using Flutter for Mobile application development and Tensorflow Keras for CNN model training.
+I am a Computer Engineer.
+
 
 
 ## 🌐 Socials:
